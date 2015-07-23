@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><weather>
+<today><wind>19</wind>
+<pressure>742 мм </pressure>
+<humidity>46%</humidity>
+<wind>1 м/с</wind>
+<pressure>741 мм</pressure>
+<humidity>87%</humidity>
+<wind>1 м/с</wind>
+<pressure>741 мм</pressure>
+<humidity>83%</humidity>
+<wind>1 м/с</wind>
+<pressure>741 мм</pressure>
+<humidity>83%</humidity>
+<wind>1 м/с</wind>
+<pressure>744 мм</pressure>
+<humidity>79%</humidity>
+<wind>3 м/с</wind>
+<pressure>746 мм</pressure>
+<humidity>87%</humidity>
+<wind>1 м/с</wind>
+<pressure>744 мм</pressure>
+<humidity>93%</humidity>
+<wind>4 м/с</wind>
+<pressure>746 мм</pressure>
+<humidity>79%</humidity>
+<wind>2 м/с</wind>
+<pressure>742 мм</pressure>
+<humidity>66%</humidity>
+<wind>6 м/с</wind>
+<pressure>742 мм</pressure>
+<humidity>92%</humidity>
+<wind>4 м/с</wind>
+<pressure>744 мм</pressure>
+<humidity>87%</humidity>
+<wind>3 м/с</wind>
+<pressure>738 мм</pressure>
+<humidity>98%</humidity>
+<wind>4 м/с</wind>
+<pressure>742 мм</pressure>
+<humidity>76%</humidity>
+<wind>6 м/с</wind>
+<pressure>14 июля в истории</pressure>
+</today><day>Завтра</day>
+<temperature>10</temperature>
+<osadki>дождь</osadki>
+<day>Чт, 16/07</day>
+<temperature>11</temperature>
+<osadki>дождь</osadki>
+<day>Пт, 17/07</day>
+<temperature>9</temperature>
+<osadki>дождь</osadki>
+<day>Сб, 18/07</day>
+<temperature>13</temperature>
+<osadki>дождь</osadki>
+<day>Вс, 19/07</day>
+<temperature>10</temperature>
+<osadki>дождь</osadki>
+<day>Пн, 20/07</day>
+<temperature>11</temperature>
+<osadki>дождь</osadki>
+<day>Вт, 21/07</day>
+<temperature>11</temperature>
+<osadki>облачно</osadki>
+<day>Ср, 22/07</day>
+<temperature>11</temperature>
+<osadki>дождь</osadki>
+<day>Чт, 23/07</day>
+<temperature>14</temperature>
+<osadki>облачно</osadki>
+<day>Пт, 24/07</day>
+<temperature>11</temperature>
+<osadki>облачно</osadki>
+</weather>

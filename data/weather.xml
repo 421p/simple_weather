@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weather>
+    <city>Kiev</city>
+    <temperature>38</temperature>
+    <windspeed>10</windspeed>
+</weather>

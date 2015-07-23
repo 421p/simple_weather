@@ -1,0 +1,40 @@
+<meta charset="UTF-8"/>class="day__date">Завтра</div>
+class="day__description" title="дождь, гроза">дождь/гроза</div>
+class="day__date">Ср, 15/07</div>
+class="day__description" title="переменная облачность, небольшой дождь">дождь</div>
+class="day__date">Чт, 16/07</div>
+class="day__description" title="ясно">ясно</div>
+class="day__date">Пт, 17/07</div>
+class="day__description" title="переменная облачность, небольшой дождь">дождь</div>
+class="day__date text-red">Сб, 18/07</div>
+class="day__description" title="ясно">ясно</div>
+class="day__date text-red">Вс, 19/07</div>
+class="day__description" title="ясно">ясно</div>
+class="day__date">Пн, 20/07</div>
+class="day__description" title="переменная облачность, небольшой дождь">дождь</div>
+class="day__date">Вт, 21/07</div>
+class="day__description" title="переменная облачность">облачно</div>
+class="day__date">Ср, 22/07</div>
+class="day__description" title="ясно">ясно</div>
+class="day__date">Чт, 23/07</div>
+class="day__description" title="переменная облачность, небольшой дождь">дождь</div>
+class="day__date">Завтра</div>
+class="day__description" title="дождь, гроза">дождь/гроза</div>
+class="day__date">Ср, 15/07</div>
+class="day__description" title="переменная облачность, небольшой дождь">дождь</div>
+class="day__date">Чт, 16/07</div>
+class="day__description" title="ясно">ясно</div>
+class="day__date">Пт, 17/07</div>
+class="day__description" title="переменная облачность, небольшой дождь">дождь</div>
+class="day__date text-red">Сб, 18/07</div>
+class="day__description" title="ясно">ясно</div>
+class="day__date text-red">Вс, 19/07</div>
+class="day__description" title="ясно">ясно</div>
+class="day__date">Пн, 20/07</div>
+class="day__description" title="переменная облачность, небольшой дождь">дождь</div>
+class="day__date">Вт, 21/07</div>
+class="day__description" title="переменная облачность">облачно</div>
+class="day__date">Ср, 22/07</div>
+class="day__description" title="ясно">ясно</div>
+class="day__date">Чт, 23/07</div>
+class="day__description" title="переменная облачность, небольшой дождь">дождь</div>
